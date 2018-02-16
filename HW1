@@ -1,0 +1,35 @@
+#include <iostream>
+#include <iomanip>
+#include "accountno.h"
+using namespace std;
+
+int main();
+//account class definition
+Class account
+        {
+    PUBLIC:
+    // set function
+    void setaccountno(string accountno);
+    void setbalance(int, float); //initial balance
+        balance = B;{
+    }
+    void setDeposit(int, float)
+        Deposit = D;{
+        }
+        void setWithdrawal(int, float)
+        Deposit = W;{
+        }
+//get functions
+        void getaccountno(); //input account
+        void int getbalance(); //return balance
+    }
+Private
+void printaccountno(); //print account info
+void printbalance(); //print balance
+
+{
+    //output account number
+    cout << "Account No.:"<<accountno/new
+    cout << "Balance:"<<balance/new
+}
+Return ();
